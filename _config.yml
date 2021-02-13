@@ -37,7 +37,7 @@ pagination:
   enabled: true
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
-  debug: false
+  debug: true
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
   collection: 'posts'
@@ -85,7 +85,7 @@ pagination:
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
   indexpage: 'index'
-  paginate: 3
+  # paginate: 3
 ############################################################
 
 ### Phantom settings
@@ -101,4 +101,4 @@ nav_item:
   - { url: '/about', text: 'About' }
   # - { url: '/projects', text: 'Projects' }
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
