@@ -3,203 +3,99 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+## 👀 About me
+I am a senior student majoring in **Data Science @ UCSD**. My research interests include natural language understanding, human cognition and human-computer interaction.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+## 📚 Education
+### University of California, San Diego
+- **Degree**: Bachelor of Science
+- **Major**: [Data Science](https://datascience.ucsd.edu)
+- **Minor**: [Communication](https://communication.ucsd.edu/)
+- **Expected Graduation**: 06/2021
 
-[Link to another page](/index.html).
+*****
 
-There should be whitespace between paragraphs.
+## 💼 Experience
+### 1. Reseach Fellow (05/2020 - Now)
+- UCSD Computer Science and Engineering, Data Mining Lab
+	- Built a classification model for U.S. patent application with customized **Bert** model;
+	- Imporved the classification accuracy by **20%** from previous works.
 
-# Header 1
+### 2. Reseach Intern (07/2019 - Now)
+- [Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)
+	- Built a pipeline to extract **food phrases** from mobile phone loggings with **>85%** coverages;
+	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** entries.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 3. Research Fellow (02/2019 - 12/2020)
+- [UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)
+	- Built on a **computer vision** algorithm that achieved **90% success** in measuring patients' eye statistics within a **0.5 mm margin**;
+ophthalmological diseases;
+	- Built an **iPad app** that walked patients through diagnosis process and collect their feedbacks.
 
-## Header 2
+### 4. Data Stucture Tutor (03/2018 - 08/2019)
+- [Halıcıoğlu Data Science Institute, UC San Diego](https://datascience.ucsd.edu/)
+	- Led individual tutor hours to help students on homework and write tests for homework.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*****
 
-### Header 3
+## 👨🏻‍💻 Projects
+### 1. [Food Parser](https://github.com/JoeyHou/food_parser)
+- An Open Source Text Processing Project (07/2020 - present)
+	- Automatically Correct **typo** and **extract food & beverage phrases** from user's input text with **85%** parsing success.
+	- Open-source project available for nutritional analysis studies.
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+### 2. Machine Learning for Ophthalmological Diagnosis
+- Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship (11/2019 - 12/2020)
+	- Built an **image classification pipeline** for common eye diseases pre-diagnosis with **PyTorch**;
+	- Achieved **75% accuracy** for distinguishing involutional ptosis, thyroid eye disease, and normal eyes.
+	- Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+### 3. Beijing Housing Price
+- A Data Analysis & Machine Learning Project (04/2019 - 05/2019)
+	- Analyzed more than **300,000 pieces** of house data with hand-crafted features;
+	- Built an **XGBoost** model for **house price evaluation**.
 
-#### Header 4
+### 4. Used Car Price Predictor
+- A Data Analysis & Machine Learning Project (01/2019 - 03/2019)
+	- Used **BeautifulSoup** to fetch **30,000,000** used car data from the web.
+	- Used **Regression Models** to predict the used car price with given model, year, and mileage.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*****
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🧠 Skills
+#### 1. Machine Learning
+-  Decision Trees, Perceptron, Boosting, K-Mean, etc.
 
-###### Header 6
+#### 2. Natural Language Processing
+- BERT, LSTM, HuggingFace, PyTorch, etc.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+#### 3.Data Analysis
+- Hypothesis Tests, Bootstrap, Panda, SciPy, etc.
 
-### There's a horizontal rule below this.
+#### 4. Data Structures
+- Binary Tree, KD Tree, Heap, Hash Map, Graphs, Priority Queues, etc.
 
----
+#### 5. Data Visualization
+- Seaborn, D3, JavaScript, CSS, HTML, etc.
 
-### Here is an unordered list:
+*****
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
-### And an ordered list:
+## 🧩 Leadership
+#### 1. President (05/2020 - Now)
+- [UCSD Chinese Computer Community](http://ucsdtriplec.org/)
+	- Project-based computer science student community **with more than 100 members**;
+	- Designed the onboarding technical training for data science members;
+	- Implemented the pipeline from **idea brainstorming** and **user research** to **developer recruitment, development**, and **product marketing**.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### 2. Academic Chair (04/2019 - 04/2020)
+- UCSD Chinese Students and Scholars Association
+	- Managed the social media with more than **13k subscribers**;
+	- Growed the subcription by **2k** in one year.
+	- Planned academic activities for Chinese students community.
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+#### 3. Social Media Chief Editor (03/2017 - 04/2019)
+- [Panopath](https://www.panopath.com/)
+	- Planned stories to help Chinese high schoolers to learn about U.S. college life
+	- Managed a social media plateform with more than **one million** subscibers on WeChat.

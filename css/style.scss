@@ -249,6 +249,8 @@ button.btn, input.btn {
 
 .content-wrap {
   margin-bottom: 8em;
+  margin-left: 2em;
+  margin-right: 2em;
   @include bp-xsmall {
     margin-bottom: 2em;
   }
@@ -262,6 +264,8 @@ button.btn, input.btn {
     @include bp-small {
       display: none;
     }
+    border-radius: 3%;
+    // align-items: center;
   }
   .content {
     margin-top: 5em;

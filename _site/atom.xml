@@ -4,13 +4,31 @@
  <title>Hello. I'm Joey Hou.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-02-13T13:58:24-08:00</updated>
+ <updated>2021-02-13T14:53:39-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Joey Hou</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Chinese Computer Community @UCSD</title>
+   <link href="http://localhost:4000/experience/2020/06/01/triplec.html"/>
+   <updated>2020-06-01T08:02:00-07:00</updated>
+   <id>http://localhost:4000/experience/2020/06/01/triplec</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phantom</title>
+   <link href="http://localhost:4000/development/2020/04/01/patent.html"/>
+   <updated>2020-04-01T09:03:00-07:00</updated>
+   <id>http://localhost:4000/development/2020/04/01/patent</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Phantom</title>

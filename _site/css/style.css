@@ -6013,19 +6013,23 @@ button.btn, input.btn {
       width: 60%; } }
 
 .content-wrap {
-  margin-bottom: 8em; }
+  margin-bottom: 8em;
+  margin-left: 2em;
+  margin-right: 2em; }
   @media only screen and (max-width: 768px) {
     .content-wrap {
       margin-bottom: 2em; } }
   @media only screen and (min-width: 770px) and (max-width: 990px) {
     .content-wrap {
       margin-bottom: 2em; } }
-  @media only screen and (max-width: 768px) {
-    .content-wrap img.img-responsive {
-      display: none; } }
-  @media only screen and (min-width: 770px) and (max-width: 990px) {
-    .content-wrap img.img-responsive {
-      display: none; } }
+  .content-wrap img.img-responsive {
+    border-radius: 3%; }
+    @media only screen and (max-width: 768px) {
+      .content-wrap img.img-responsive {
+        display: none; } }
+    @media only screen and (min-width: 770px) and (max-width: 990px) {
+      .content-wrap img.img-responsive {
+        display: none; } }
   .content-wrap .content {
     margin-top: 5em;
     margin-left: 5em; }
