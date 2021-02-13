@@ -24,7 +24,7 @@ instagram_username: 'joeyhou10'
 
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+# theme: phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
@@ -99,4 +99,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-  - { url: '/projects', text: 'Projects' }
+  # - { url: '/projects', text: 'Projects' }
