@@ -26,7 +26,10 @@ instagram_username: 'joeyhou10'
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
@@ -85,7 +88,7 @@ pagination:
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
   indexpage: 'index'
-  # paginate: 3
+
 ############################################################
 
 ### Phantom settings
