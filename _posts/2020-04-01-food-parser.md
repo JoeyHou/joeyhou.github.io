@@ -1,13 +1,13 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Food Parser'
 date: 2020-04-01 00:00:00
-categories: project
-tags: NLP Interdisciplinary CircadianRhythm
+categories: Project
+tags: NLP Interdisciplinary Circadian-Rhythm
 featured_image: '/img/posts/06_food_parser.jpg'
 project_link: 'https://github.com/JoeyHou/food_parser'
-button_icon: 'flask'
+button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'An open-source text mining project for user entry extraction.'
 ---

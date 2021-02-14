@@ -3,11 +3,11 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## 👀 About me
+### 👀 About me
 I am a senior student majoring in **Data Science @ UCSD**. My research interests include natural language understanding, human cognition and human-computer interaction.
 
-## 📚 Education
-### University of California, San Diego
+### 📚 Education
+#### University of California, San Diego
 - **Degree**: Bachelor of Science
 - **Major**: [Data Science](https://datascience.ucsd.edu)
 - **Minor**: [Communication](https://communication.ucsd.edu/)
@@ -15,47 +15,47 @@ I am a senior student majoring in **Data Science @ UCSD**. My research interests
 
 *****
 
-## 💼 Experience
-### 1. Reseach Fellow (05/2020 - Now)
+### 💼 Experience
+#### 1. Reseach Fellow (05/2020 - Now)
 - UCSD Computer Science and Engineering, Data Mining Lab
 	- Built a classification model for U.S. patent application with customized **Bert** model;
 	- Imporved the classification accuracy by **20%** from previous works.
 
-### 2. Reseach Intern (07/2019 - Now)
+#### 2. Reseach Intern (07/2019 - Now)
 - [Salk Institute of Biological Studies - Panda Lab](https://panda.salk.edu/)
 	- Built a pipeline to extract **food phrases** from mobile phone loggings with **>85%** coverages;
 	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** entries.
 
-### 3. Research Fellow (02/2019 - 12/2020)
+#### 3. Research Fellow (02/2019 - 12/2020)
 - [UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)
 	- Built on a **computer vision** algorithm that achieved **90% success** in measuring patients' eye statistics within a **0.5 mm margin**;
 ophthalmological diseases;
 	- Built an **iPad app** that walked patients through diagnosis process and collect their feedbacks.
 
-### 4. Data Stucture Tutor (03/2018 - 08/2019)
+#### 4. Data Stucture Tutor (03/2018 - 08/2019)
 - [Halıcıoğlu Data Science Institute, UC San Diego](https://datascience.ucsd.edu/)
 	- Led individual tutor hours to help students on homework and write tests for homework.
 
 *****
 
-## 👨🏻‍💻 Projects
-### 1. [Food Parser](https://github.com/JoeyHou/food_parser)
+### 👨🏻‍💻 Projects
+#### 1. [Food Parser](https://github.com/JoeyHou/food_parser)
 - An Open Source Text Processing Project (07/2020 - present)
 	- Automatically Correct **typo** and **extract food & beverage phrases** from user's input text with **85%** parsing success.
 	- Open-source project available for nutritional analysis studies.
 
-### 2. Machine Learning for Ophthalmological Diagnosis
+#### 2. Machine Learning for Ophthalmological Diagnosis
 - Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship (11/2019 - 12/2020)
 	- Built an **image classification pipeline** for common eye diseases pre-diagnosis with **PyTorch**;
 	- Achieved **75% accuracy** for distinguishing involutional ptosis, thyroid eye disease, and normal eyes.
 	- Awarded UCSD Halıcıoğlu Data Science Undergraduate Scholarship
 
-### 3. Beijing Housing Price
+#### 3. Beijing Housing Price
 - A Data Analysis & Machine Learning Project (04/2019 - 05/2019)
 	- Analyzed more than **300,000 pieces** of house data with hand-crafted features;
 	- Built an **XGBoost** model for **house price evaluation**.
 
-### 4. Used Car Price Predictor
+#### 4. Used Car Price Predictor
 - A Data Analysis & Machine Learning Project (01/2019 - 03/2019)
 	- Used **BeautifulSoup** to fetch **30,000,000** used car data from the web.
 	- Used **Regression Models** to predict the used car price with given model, year, and mileage.
@@ -63,7 +63,7 @@ ophthalmological diseases;
 *****
 
 
-## 🧠 Skills
+### 🧠 Skills
 #### 1. Machine Learning
 -  Decision Trees, Perceptron, Boosting, K-Mean, etc.
 
@@ -82,7 +82,7 @@ ophthalmological diseases;
 *****
 
 
-## 🧩 Leadership
+### 🧩 Leadership
 #### 1. President (05/2020 - Now)
 - [UCSD Chinese Computer Community](http://ucsdtriplec.org/)
 	- Project-based computer science student community **with more than 100 members**;

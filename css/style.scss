@@ -19,8 +19,17 @@
 $primary: #0a0a0a;
 $secondary: #FF7B7B;
 
-%opensans { font-family: 'Open Sans', sans-serif; }
-%merriweather { font-family: 'Merriweather', serif; }
+%opensans { font-family: 'Quicksand', sans-serif;  }
+%merriweather { font-family: 'Quicksand', sans-serif; }
+
+/*--------------------------------------------------------------
+	0.0 Additionals
+--------------------------------------------------------------*/
+#words {
+    font-family: 'Orbitron', sans-serif;
+}
+
+
 
 /*--------------------------------------------------------------
 	1.0 Defaults
