@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Joey Hou."
 email: 'z9hou@ucsd.edu'
-description: "I'm a data science undergrad @UCSD."
+description: "a data science undergrad @UCSD."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://joeyhou.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'joeyhou'
@@ -28,7 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 10
+paginate: 5
 paginate_path: "/page:num/"
 
 ############################################################

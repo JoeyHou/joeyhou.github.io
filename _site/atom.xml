@@ -4,7 +4,7 @@
  <title>Hello. I'm Joey Hou.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-02-13T14:53:39-08:00</updated>
+ <updated>2021-02-13T17:27:59-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Joey Hou</name>
@@ -13,55 +13,28 @@
 
  
  <entry>
-   <title>Chinese Computer Community @UCSD</title>
-   <link href="http://localhost:4000/experience/2020/06/01/triplec.html"/>
-   <updated>2020-06-01T08:02:00-07:00</updated>
-   <id>http://localhost:4000/experience/2020/06/01/triplec</id>
+   <title>Lighting Talk @ UC Love Data Week</title>
+   <link href="http://localhost:4000/experience/2021/02/10/patent-talk.html"/>
+   <updated>2021-02-10T05:00:00-08:00</updated>
+   <id>http://localhost:4000/experience/2021/02/10/patent-talk</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://localhost:4000/development/2020/04/01/patent.html"/>
-   <updated>2020-04-01T09:03:00-07:00</updated>
-   <id>http://localhost:4000/development/2020/04/01/patent</id>
+   <title>Food Parser</title>
+   <link href="http://localhost:4000/project/2020/03/31/food-parser.html"/>
+   <updated>2020-03-31T17:00:00-07:00</updated>
+   <id>http://localhost:4000/project/2020/03/31/food-parser</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
-   <updated>2016-02-20T13:15:00-08:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Rescue Themes</title>
-   <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T07:56:00-08:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Weathercast</title>
-   <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T07:56:00-08:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/weathercast</id>
-   <content type="html">
-</content>
- </entry>
- 
- <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T06:15:00-08:00</updated>
-   <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
+   <title>Triple C @UCSD</title>
+   <link href="http://localhost:4000/experience/2019/05/31/triplec.html"/>
+   <updated>2019-05-31T17:00:00-07:00</updated>
+   <id>http://localhost:4000/experience/2019/05/31/triplec</id>
    <content type="html">
 </content>
  </entry>

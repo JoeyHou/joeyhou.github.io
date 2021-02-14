@@ -5,17 +5,53 @@
     <description>I'm a data science undergrad @UCSD.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Feb 2021 14:53:39 -0800</pubDate>
-    <lastBuildDate>Sat, 13 Feb 2021 14:53:39 -0800</lastBuildDate>
+    <pubDate>Sat, 13 Feb 2021 17:27:59 -0800</pubDate>
+    <lastBuildDate>Sat, 13 Feb 2021 17:27:59 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Chinese Computer Community @UCSD</title>
+        <title>Lighting Talk @ UC Love Data Week</title>
         <description>
 </description>
-        <pubDate>Mon, 01 Jun 2020 08:02:00 -0700</pubDate>
-        <link>http://localhost:4000/experience/2020/06/01/triplec.html</link>
-        <guid isPermaLink="true">http://localhost:4000/experience/2020/06/01/triplec.html</guid>
+        <pubDate>Wed, 10 Feb 2021 05:00:00 -0800</pubDate>
+        <link>http://localhost:4000/experience/2021/02/10/patent-talk.html</link>
+        <guid isPermaLink="true">http://localhost:4000/experience/2021/02/10/patent-talk.html</guid>
+        
+        <category>NLP</category>
+        
+        <category>DeepLearning</category>
+        
+        
+        <category>experience</category>
+        
+      </item>
+    
+      <item>
+        <title>Food Parser</title>
+        <description>
+</description>
+        <pubDate>Tue, 31 Mar 2020 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/project/2020/03/31/food-parser.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2020/03/31/food-parser.html</guid>
+        
+        <category>NLP</category>
+        
+        <category>Interdisciplinary</category>
+        
+        <category>CircadianRhythm</category>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Triple C @UCSD</title>
+        <description>
+</description>
+        <pubDate>Fri, 31 May 2019 17:00:00 -0700</pubDate>
+        <link>http://localhost:4000/experience/2019/05/31/triplec.html</link>
+        <guid isPermaLink="true">http://localhost:4000/experience/2019/05/31/triplec.html</guid>
         
         <category>Leadership</category>
         
@@ -25,107 +61,6 @@
         
         
         <category>experience</category>
-        
-      </item>
-    
-      <item>
-        <title>Phantom</title>
-        <description>
-</description>
-        <pubDate>Wed, 01 Apr 2020 09:03:00 -0700</pubDate>
-        <link>http://localhost:4000/development/2020/04/01/patent.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2020/04/01/patent.html</guid>
-        
-        <category>NLP</category>
-        
-        <category>Interdisciplinary</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Phantom</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 13:15:00 -0800</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html</guid>
-        
-        <category>Jekyll</category>
-        
-        <category>Sass</category>
-        
-        <category>Bootstrap</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Rescue Themes</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 07:56:00 -0800</pubDate>
-        <link>http://localhost:4000/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/design/2016/02/20/rescue-themes.html</guid>
-        
-        <category>WordPress</category>
-        
-        <category>PHP</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-        <category>design</category>
-        
-      </item>
-    
-      <item>
-        <title>Weathercast</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 07:56:00 -0800</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/weathercast.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 06:15:00 -0800</pubDate>
-        <link>http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">http://localhost:4000/development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
-        
-        
-        <category>development</category>
         
       </item>
     
