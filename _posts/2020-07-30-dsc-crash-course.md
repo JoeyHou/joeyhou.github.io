@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Triple C DSC Crash Course'
+title: 'DSC Crash Course'
 date: 2020-07-30 00:00:00
 categories: Project
 tags: Data-Analysis Machine-Learning Guided-Project

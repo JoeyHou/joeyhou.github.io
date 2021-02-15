@@ -5,7 +5,7 @@
 * MIT licesned.
 */
 
-var strings = new Array("Hi there!", "I am Joey Hou."); // 多个字段
+var strings = new Array("Hi there!", "I am Joey."); // 多个字段
 var typingSpeed = 200; // 打出每个字的间隔时间
 var deleteSpeed = 125; // 删除每个字的间隔时间
 var isLoop = true; // 是否循环，true/false
