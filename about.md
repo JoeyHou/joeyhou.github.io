@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 ### 👀 About me
-I am a senior student majoring in **Data Science @ UCSD**. My research interests include natural language understanding, human cognition and human-computer interaction.
+I am a senior undergraduate student majoring in **Data Science @ UCSD**. My research interests include natural language understanding, human cognition and human-computer interaction.
+
+*****
 
 ### 📚 Education
-#### University of California, San Diego
+#### 1. University of California, San Diego
 - **Degree**: Bachelor of Science
 - **Major**: [Data Science](https://datascience.ucsd.edu)
 - **Minor**: [Communication](https://communication.ucsd.edu/)
@@ -16,7 +18,7 @@ I am a senior student majoring in **Data Science @ UCSD**. My research interests
 *****
 
 ### 💼 Experience
-#### 1. Reseach Fellow (05/2020 - Now)
+#### 1. Undergraduate Reseacher (05/2020 - Now)
 - UCSD Computer Science and Engineering, Data Mining Lab
 	- Built a classification model for U.S. patent application with customized **Bert** model;
 	- Imporved the classification accuracy by **20%** from previous works.
@@ -26,7 +28,7 @@ I am a senior student majoring in **Data Science @ UCSD**. My research interests
 	- Built a pipeline to extract **food phrases** from mobile phone loggings with **>85%** coverages;
 	- Processed and formatted research data for two circadian rhythm projects with more than **1 million** entries.
 
-#### 3. Research Fellow (02/2019 - 12/2020)
+#### 3. Undergraduate Researcher (02/2019 - 12/2020)
 - [UC San Diego Shiley Eye Institute](https://shileyeye.ucsd.edu/)
 	- Built on a **computer vision** algorithm that achieved **90% success** in measuring patients' eye statistics within a **0.5 mm margin**;
 ophthalmological diseases;
