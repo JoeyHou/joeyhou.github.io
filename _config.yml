@@ -103,7 +103,7 @@ collections:
 footer_text: '© 2021 Zhaoyi Hou (Joey)'
 admin_name: 'Joey Hou'
 # google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
