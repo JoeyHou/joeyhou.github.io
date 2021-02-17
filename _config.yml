@@ -28,7 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 5
+paginate: 7
 paginate_path: "/page:num/"
 
 ############################################################
@@ -91,9 +91,12 @@ pagination:
 
 
 ############################################################
-# Collection of wechat articles
+# Collection of wechat articles and files
 collections:
     articles:
+        output: true
+        permalink: /:collection/:title
+    files:
         output: true
         permalink: /:collection/:title
 
@@ -109,7 +112,8 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About Me' }
   - { url: '/thoughts', text: 'Thoughts' }
+  - { url: '/0_resume.pdf', text: 'Resume' }
+  - { url: '/about', text: 'About Me' }
 
 # theme: jekyll-theme-minimal
