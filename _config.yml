@@ -89,6 +89,14 @@ pagination:
   # Without file extension
   indexpage: 'index'
 
+
+############################################################
+# Collection of wechat articles
+collections:
+    articles:
+        output: true
+        permalink: /:collection/:title
+
 ############################################################
 
 ### Phantom settings
@@ -102,6 +110,6 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About Me' }
-  # - { url: '/projects', text: 'Projects' }
+  - { url: '/thoughts', text: 'Thoughts' }
 
 # theme: jekyll-theme-minimal
