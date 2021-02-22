@@ -9,3 +9,7 @@ permalink: /thoughts/
 <br/>
 ##### Yearly Summaries / 年终总结
 - 12/30/2020: [2020 再也不见](/articles/1_2020.html)
+
+<br/>
+##### Other Thoughts / 瞎逼逼
+- 8/31/2018: [那个经常在朋友圈里怀念执信的人，现在过的怎么样了？](/articles/2_zx.html)
