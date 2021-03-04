@@ -9,6 +9,7 @@ permalink: /thoughts/
 <br/>
 ##### Yearly Summaries / 年终总结
 - 12/30/2020: [2020 再也不见](/articles/1_2020.html)
+- 12/27/2019: [我的 2019](/articles/3_2019.html)
 
 <br/>
 ##### Other Thoughts / 瞎逼逼
