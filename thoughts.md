@@ -14,4 +14,5 @@ permalink: /thoughts/
 
 <br/>
 ##### Other Thoughts / 瞎逼逼
-- 8/31/2018: [那个经常在朋友圈里怀念执信的人，现在过的怎么样了？](/articles/2_zx.html)
+- 08/31/2018: [那个经常在朋友圈里怀念执信的人，现在过的怎么样了？](/articles/2_zx.html)
+- 05/04/2021: [再见，San Diego](/articles/5_san_diego.html)
