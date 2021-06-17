@@ -1,3 +1,10 @@
+# My personal profile page
+This is the personal profile page build with Jekyll, inspired by [this repository](https://github.com/jamigibbs/phantom.git).
+
+I have also copy the README from that repo in case you need it.
+
+If there is any question, please feel free to contact me at: z9hou@ucsd.edu
+
 ## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
